@@ -8,4 +8,4 @@
 
 
 ## Demo
-#### [Google first version](https://htmlpreview.github.io/?https://github.com/talhaozbek61/google-1998/blob/main/index.html)
+- [Google first version](https://htmlpreview.github.io/?https://github.com/talhaozbek61/google-1998/blob/main/index.html)
